@@ -1,1 +1,1 @@
-# aimi-social-platform
+chore: reset repo for fresh deployment
